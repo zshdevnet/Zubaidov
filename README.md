@@ -1,6 +1,6 @@
-<p align="center">
-![logo](https://github.com/Zubaidov/Zubaidov/blob/main/logo_J.jpg?raw=true)
-</p>
+<div align="center">
+<img align="center" alt="Logo" width="400px" src="https://github.com/Zubaidov/Zubaidov/blob/main/logo_J.jpg?raw=true">
+</div>
 <h1 align="center">Hey there 👋, I'm Shohruz Zubaidov</h1>
 <h3 align="center">A passionate Django Web Developer</h3>
 

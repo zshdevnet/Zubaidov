@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on [Online Food Ordering System](https://github.com/Zubaidov/OFOS_Django.git)
 
-- 🌱 Learning **Django, JS, Bootstrap5, and other modern Technologies**
+- 🌱 Learning **JS, Bootstrap5, and other modern Technologies bellow**
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/Zubaidov](https://github.com/Zubaidov)
 

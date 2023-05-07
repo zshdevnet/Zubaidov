@@ -12,7 +12,7 @@
 
 - 🌱 Learning **AWS Cloud**, **Docker** and all technologies for complete **Software Development**
 
-- 👨‍💻 All of my projects are available at GitHub(https://github.com/Zubaidov)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Zubaidov)
 
 - 📫 How to reach me **zubaidov.shohruz@gmail.com**
 

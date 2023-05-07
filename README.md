@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubaidov&label=Profile%20views&color=0e75b6&style=flat" alt="zubaidov" /> </p>
 
-- 🔭 Currently working on [Online Food Ordering System](https://github.com/Zubaidov/OFOS_Django.git)
+- 🔭 Currently working on [several **Management System** web applications](https://github.com/Zubaidov)
 
 - 🌱 Learning **JS, Bootstrap5, and other modern Technologies which is mentioned below**
 

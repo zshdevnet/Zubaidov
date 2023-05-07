@@ -10,9 +10,9 @@
 
 - 🔭 Currently working on [several **Management System** web applications](https://github.com/Zubaidov)
 
-- 🌱 Learning **JS, Bootstrap5, and other modern Technologies which is mentioned below**
+- 🌱 Learning **AWS Cloud**, **Docker** and all technologies for complete Software Development
 
-- 👨‍💻 All of my projects are available at GitHub [https://github.com/Zubaidov](https://github.com/Zubaidov)
+- 👨‍💻 All of my projects are available at GitHub(https://github.com/Zubaidov)
 
 - 📫 How to reach me **zubaidov.shohruz@gmail.com**
 

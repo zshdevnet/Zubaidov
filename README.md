@@ -2,7 +2,7 @@
 <img align="center" alt="Logo" width="300px" src="https://github.com/Zubaidov/Zubaidov/blob/main/logo_J.jpg?raw=true">
 </div>
 <h1 align="center">Hey there 👋, I'm Shohruz Zubaidov</h1>
-<h3 align="center">A passionate **Software Developer**</h3>
+<h3 align="center">A passionate [several]**Software Developer**</h3>
 
 <img align="right" alt="coding" width="400px" src="https://github.com/Zubaidov/Zubaidov/blob/main/GIFEEE.gif?raw=true">
 

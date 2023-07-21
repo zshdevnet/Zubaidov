@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **zubaidov.shohruz@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://github.com/Zubaidov/Zubaidov/blob/main/CV_Zubaidov_Shohruz.pdf](https://github.com/Zubaidov/Zubaidov/blob/main/CV_Shohruz_Zubaidov_-_Full_Stack_Developer.pdf))
+- 📄 Know about my experiences [Resume](https://github.com/Zubaidov/Zubaidov/blob/main/CV_Shohruz_Zubaidov_-_Full_Stack_Developer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

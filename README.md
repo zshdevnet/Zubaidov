@@ -20,7 +20,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Zubaidov&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://paypal.me/Shohruz Zubaidov)] 
+  [![PayPal](https://paypal.me/Shohruz%20Zubaidov)] 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

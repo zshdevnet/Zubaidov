@@ -27,6 +27,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubaidov&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="100%" />
+</div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Zubaidov&theme=merko&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" width="100%" />
 </div>
 <br />
@@ -34,9 +37,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zubaidov&theme=merko&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
 <br />
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubaidov&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="100%" />
-</div>
+
 
 
 ### 🔝 Top Contributed Repo

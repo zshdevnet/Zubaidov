@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 <pre>
-🔭 I’m currently working on <a href="https://zbdtech.pro/en/">Several Client Websites</a>
+🔭 I’m currently working on <a href="https://zbdtech.pro/en/">Personal Resume Website</a>
 👯 I’m looking to collaborate on any project using Django
 🌱 I’m currently learning Networking and Cybersecurity.
 💬 Ask me about anything related to Programming.
-⚡ The science never ends, and the knowledge that you learn will never be stolen.
+⚡ The pursuit of science is endless, and the wisdom you acquire will remain forever unshaken.
 </pre>
 
 <img align="right" alt="coding" width="300px" src="https://github.com/Zubaidov/Zubaidov/blob/main/GIFEEE.gif?raw=true">

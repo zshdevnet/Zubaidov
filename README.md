@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Shohruz Zubaidov</h1>
-<h3 align="center">A passionate <b>FullStack Web Developer</b></h3>
+<h3 align="center">A passionate <b>BackEnd Developer in Django</b></h3>
 
 # 💫 About Me:
 <pre>
